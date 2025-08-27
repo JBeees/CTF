@@ -15,7 +15,7 @@ mmls disk.flag.img
 ```
 mmls showed three partitions. I examined the third partition by listing its files:
 ```
-mmls showed three partitions. I examined the third partition by listing its files:
+fls -o 360448 disk.flag.img
 ```
 (The -o 360448 option tells Sleuth Kit to start reading the file system at sector 360448, which is where that partition begins.)
 The output included the root directory and several standard directories:
