@@ -5,7 +5,7 @@ Download this disk image and find the flag.
 Note: if you are using the webshell, download and extract the disk image into /tmp not your home directory.
 - [Download compressed disk image](https://artifacts.picoctf.net/c/212/disk.flag.img.gz)
 ## Solution
-We were given a .gz file. First, I decompressed it with gunzip to obtain a disk image. I used Sleuth Kit to analyze the image. Running mmls disk.flag.img showed three partitions; the third partition (which contained the root filesystem) started at sector 411648. To list the root directory I used:
+We were given a .gz file. First, I decompressed it with gunzip to obtain a disk image. I used Sleuth Kit to analyze the image. Running `mmls disk.flag.img` showed three partitions; the third partition (which contained the root filesystem) started at sector 411648. To list the root directory I used:
 ```bash
 fls -o 411648 disk.flag.img
 ```
