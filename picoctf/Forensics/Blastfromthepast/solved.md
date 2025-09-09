@@ -63,7 +63,8 @@ Image_UTC_Data1700513181420
 ```
 GMT: Monday, November 20, 2023 8:46:21.420 PM
 ```
-This corresponds to the current value of the Samsung timestamp.
+This corresponds to the current value of the Samsung timestamp.  
+
 3. Using a hex editor, locate this value (Image_UTC_Data1700513181420) and modify it to the required value:
 ```
 Image_UTC_Data000000000001
