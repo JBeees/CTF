@@ -69,5 +69,6 @@ This corresponds to the current value of the Samsung timestamp.
 ```
 Image_UTC_Data000000000001
 ``` 
-Tip: Using Ctrl + S in the hex editor helps you quickly find this part in the file.
+Tip: Using Ctrl + S in the hex editor helps you quickly find this part in the file.  
+
 4. Save the changes and submit the image. The server should now accept it, and you will be able to retrieve the flag.
