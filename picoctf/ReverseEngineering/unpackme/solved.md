@@ -57,5 +57,6 @@ if (local_44 == 0xb83cb)
 ```
 - 0xb83cb in decimal is 754,635.
 - If the value matches, the program calls rotate_encrypt(0, &local_38), which likely decodes or decrypts a hidden string (the flag). The result is printed with fputs, followed by a newline, and the allocated memory is freed.
-- If the input is incorrect, the program prints: Sorry, that's not it!
+- If the input is incorrect, the program prints: Sorry, that's not it!  
+
 I ran the unpacked binary, entered `754635`, and the program printed the flag.
