@@ -10,7 +10,7 @@ You can download the file from [here](https://artifacts.picoctf.net/c/507/asciif
 We were given a binary file for this challenge. Running it printed:
 ```
 The flag starts with 70
-``
+```
 `0x70` is the ASCII code for the letter `p`, so I continued with static analysis in Ghidra. In the decompiled/disassembly view I found the following sequence of `MOV` instructions that write single bytes into a local buffer:
 ```asm
         00101184 c6 45 d0 70     MOV        byte ptr [RBP + local_38],0x70
