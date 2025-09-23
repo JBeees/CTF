@@ -11,7 +11,7 @@ aarch64-linux-gnu-gcc -c chall.S -o chall.o
 aarch64-linux-gnu-gcc chall.S -o chall
 ```  
 I loaded the resulting ELF into **Ghidra** and found the main function. It reads two command-line arguments, converts them to integers, passes them to `func1`, and prints the result:
-```
+```c
 undefined8 main(undefined8 param_1,long param_2)
 
 {
