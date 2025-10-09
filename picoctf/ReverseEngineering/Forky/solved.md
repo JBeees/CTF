@@ -25,12 +25,14 @@ undefined4 main(void){
 
 - The program calls `fork()` four times sequentially.
 - Each `fork()` duplicates all existing processes. So the total number of processes after each fork is:
+
 | Fork | Total Processes |
 |------|----------------|
 | 1st  | 2              |
 | 2nd  | 4              |
 | 3rd  | 8              |
 | 4th  | 16             |
+
 - All 16 processes share the same memory because `piVar1` points to a shared anonymous memory region (MAP_SHARED).
 - At the end, every process executes:
 ```c
