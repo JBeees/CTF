@@ -1,8 +1,10 @@
 <p align="center">
   <h1 align="center">CTF</h1>
+  <p align="center">
   <img alt="last commit" src="https://img.shields.io/github/last-commit/JBeees/CTF?style=flat-square" />
   <img alt="C percent" src="https://img.shields.io/badge/C-28.7%25-2b7de9?style=flat-square" />
   <img alt="languages" src="https://img.shields.io/badge/languages-10-darkgrey?style=flat-square" />
+  </p>
 </p>
 
 <p align="center"><em>Built with the tools and technologies:</em></p>
