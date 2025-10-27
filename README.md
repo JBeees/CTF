@@ -3,14 +3,13 @@
   <p align="center">
   <img alt="last commit" src="https://img.shields.io/github/last-commit/JBeees/CTF?style=flat-square" />
   <img alt="C percent" src="https://img.shields.io/badge/C-28.7%25-2b7de9?style=flat-square" />
-  <img alt="languages" src="https://img.shields.io/badge/languages-10-darkgrey?style=flat-square" />
+  <img alt="languages" src="https://img.shields.io/badge/languages-6-darkgrey?style=flat-square" />
   </p>
 </p>
 
 <p align="center"><em>Built with the tools and technologies:</em></p>
 
 <p align="center">
-  <img alt="JSON" src="https://img.shields.io/badge/JSON-000000?logo=json&logoColor=white&style=for-the-badge" />
   <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white&style=for-the-badge" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F0DB4F?logo=javascript&logoColor=black&style=for-the-badge" />
   <img alt="GNU Bash" src="https://img.shields.io/badge/GNU_Bash-4EAA25?logo=gnu-bash&logoColor=white&style=for-the-badge" />
