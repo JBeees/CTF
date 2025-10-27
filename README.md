@@ -1,6 +1,44 @@
-# 🧠 CTF Writeups & Challenges
+<p align="center">
+  <h1 align="center">CTF</h1>
+  <img alt="last commit" src="https://img.shields.io/github/last-commit/JBeees/REPO?style=flat-square" />
+  <img alt="C percent" src="https://img.shields.io/badge/C-28.7%25-2b7de9?style=flat-square" />
+  <img alt="languages" src="https://img.shields.io/badge/languages-10-darkgrey?style=flat-square" />
+</p>
 
-Welcome to my collection of **CTF (Capture The Flag)** write-ups and challenge solutions!  
-This repository contains my personal notes, code snippets, and explanations from various CTFs — covering categories like **reverse engineering**, **pwn**, **web exploitation**, **crypto**, **forensics**, and **misc**.
+<p align="center"><em>Built with the tools and technologies:</em></p>
+
+<p align="center">
+  <img alt="Express" src="https://img.shields.io/badge/Express-black?logo=express&logoColor=white&style=for-the-badge" />
+  <img alt="JSON" src="https://img.shields.io/badge/JSON-000000?logo=json&logoColor=white&style=for-the-badge" />
+  <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white&style=for-the-badge" />
+  <img alt="npm" src="https://img.shields.io/badge/npm-CC3534?logo=npm&logoColor=white&style=for-the-badge" />
+  <img alt="Mongoose" src="https://img.shields.io/badge/Mongoose-BA1F2B?logo=mongodb&logoColor=white&style=for-the-badge" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F0DB4F?logo=javascript&logoColor=black&style=for-the-badge" />
+  <img alt="GNU Bash" src="https://img.shields.io/badge/GNU_Bash-4EAA25?logo=gnu-bash&logoColor=white&style=for-the-badge" />
+  <img alt="XML" src="https://img.shields.io/badge/XML-0060A9?logo=xml&logoColor=white&style=for-the-badge" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
+  <img alt="C" src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=for-the-badge" />
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge" />
+</p>
 
 ---
+
+## Overview
+
+CTF is an extensive developer toolset that consolidates a wide range of cybersecurity challenge solutions, including reverse engineering, cryptography, web exploitation, and forensics. It serves as a valuable resource for learning, practicing, and automating complex security analysis tasks.  
+The core features include:
+
+• 🧩 **Puzzle Repository:** An organized collection of write-ups, notes, and solutions for diverse CTF challenges.  
+
+• 🔐 **Cryptography Support:** Scripts decode encoded messages, from modular arithmetic to cipher transformations, aiding cryptographic puzzle solving.  
+
+• 🕵️ **Forensic & Binary Tools:** Automates memory inspection, file analysis, and data extraction from images and network captures.  
+
+• ❄️ **Analysis Automation:** Facilitates reverse engineering, control flow analysis, and vulnerability exploitation with minimal manual effort.  
+
+• 🚀 **Educational Resources:** Supports learning low-level concepts like assembly, control flow, and data obfuscation through practical scripts.
+
+---
+
+## Suggested structure
+
