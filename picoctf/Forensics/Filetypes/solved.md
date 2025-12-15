@@ -18,7 +18,8 @@ From there, the challenge requires repeatedly identifying and decompressing the 
 - lzip
 - lz4
 - lzma / xz
-- lzop
+- lzop     
+
 After each decompression step, the file must be checked again using tools like file to determine the next required decompression method.
 
 Eventually, the final output is an ASCII text file containing data encoded in hexadecimal format. Decoding this hex data reveals the actual flag.
