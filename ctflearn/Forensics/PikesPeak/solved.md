@@ -3,4 +3,4 @@
 ## Description
 Pay attention to those strings!
 ## Solution
-Here i got a jpg file. Then i use strings on the file. There i saw a lot of variant of flag. But i choose the one appropriate as the flag format. I submitted it and i succeed.
+In this challenge, we were given a JPG file. I analyzed the file using the strings command, which revealed multiple flag-like `strings` embedded in the file. By identifying the string that matched the expected flag format, I selected the correct one and submitted it successfully.
