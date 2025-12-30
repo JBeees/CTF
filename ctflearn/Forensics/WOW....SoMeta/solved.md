@@ -1,4 +1,5 @@
 # TITLE : Wow.... So Meta
+## Author : 3301_
 ## Description
 This photo was taken by our target. See what you can find out about him from it.
 ## Solution

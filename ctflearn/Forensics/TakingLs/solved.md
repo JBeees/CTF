@@ -1,4 +1,5 @@
 # TITLE : Taking LS
+## Author : alexkato29
 ## Description
 Just take the Ls. Check out this zip file and I be the flag will remain hidden.
 ## Solution
