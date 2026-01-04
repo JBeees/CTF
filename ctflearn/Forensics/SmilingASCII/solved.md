@@ -20,7 +20,7 @@ print(img.mode)
 The output shows that the image uses four values per pixel, meaning it is in RGBA mode. After running several tests, I discovered that the hidden data is stored in the alpha channel.
 
 To extract the flag, I used the following Python script to read the alpha values and convert them into ASCII characters:
-```
+```py
 from PIL import Image
 
 img = Image.open("smiling.png")
